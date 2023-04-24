@@ -7,7 +7,16 @@ With a strong foundation in computer science and a dedication to lifelong learni
 
 ---
 :toolbox: Toolbox 
+<br/>
+<img   src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  width=50px height=50px>
+<img   src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  width=50px height=50px>
+<img   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  width=50px height=50px>
 <img   src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  width=50px height=50px>
+<img   src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  width=50px height=50px>
+<img   src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  width=50px height=50px>
+<img   src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"  width=50px height=50px>
+
+
 
 <!--
 **Hajer45/Hajer45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
