@@ -1,5 +1,6 @@
 ### Hi there 👋,I am Hajer Talbi
 
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU">
 ---
 I am a second-year computer science student with a passion for competitive programming and web development. I am currently learning HTML, CSS, JavaScript, and PHP and I am excited to continue improving my skills in these areas. 
 I am always eager to learn new things and take on new challenges, and I am constantly seeking opportunities to expand my knowledge and expertise.
@@ -23,5 +24,9 @@ With a strong foundation in computer science and a dedication to lifelong learni
 - 🔭 I’m currently studying computer science Bachelor in ISI Ariana
 - 🌱 I’m currently learning HTML CSS JS and PHP 
 - 👯 I’m looking to collaborate on others projects and learn other technologies
-- 📫 How to reach me: ...
 - ⚡ Fun fact: I love cooking :eyes:
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hajer-talbi-238171169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hajer talbi" height="30" width="40" /></a>
+</p>
