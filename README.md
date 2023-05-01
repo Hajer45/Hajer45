@@ -1,4 +1,4 @@
-![Header](../github-header-image (1).png)
+![Header Image](https://github.com/Hajer45/Hajer45/blob/main/github-header-image%20(1).png)
 ### Hi there 👋,I am Hajer Talbi
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU">
