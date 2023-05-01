@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+![Header](./github-header-image (1).png)
 ### Hi there 👋,I am Hajer Talbi
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU">
