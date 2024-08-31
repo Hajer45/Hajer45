@@ -29,7 +29,16 @@ With a strong foundation in computer science and a dedication to lifelong learni
 - 👯 I’m looking to collaborate on others projects and learn other technologies
 - ⚡ Fun fact: I love cooking :eyes:
 ---
-<h3 align="left">Connect with me:</h3>
+## <b> Connect with me:</b>
 <p align="left">
-<a href="https://www.linkedin.com/in/hajer-talbi-238171169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hajer talbi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hajer-talbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hajer-talbi/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/hagartalbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hagartalbi" height="30" width="40" /></a>
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajer45&show_icons=true&locale=en&layout=compact" alt="Hajer45" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hajer45&show_icons=true&locale=en" alt="Hajer45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hajer45&" alt="Hajer45" /></p>
+
