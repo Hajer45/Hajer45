@@ -32,7 +32,7 @@ With a strong foundation in computer science and a dedication to lifelong learni
 ## <b> Connect with me:</b>
 <p align="left">
 <a href="https://www.linkedin.com/in/hajer-talbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hajer-talbi/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/hagartalbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hagartalbi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/hagartalbi/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw06kOpjz-TnEn61r0JKp4_Z&ust=1725222543712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiClv2IoIgDFQAAAAAdAAAAABAE" alt="hagartalbi" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
