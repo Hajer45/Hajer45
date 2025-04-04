@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU">
 ---
-I am a software engineering student with a passion for competitive programming and web development. I am currently learning MERN stack and I am excited to continue improving my skills in these areas. 
-I am always eager to learn new things and take on new challenges, and I am constantly seeking opportunities to expand my knowledge and expertise.
-With a strong foundation in computer science and a dedication to lifelong learning, I am confident that I have what it takes to make a meaningful contribution to any team or project.
+I am a freelancer with a passion for competitive programming, web development, and data science. Currently, I am learning data science and am eager to continue improving my skills in these areas.
+
+I am always excited to learn new things and take on new challenges, constantly seeking opportunities to expand my knowledge and expertise. With a strong foundation in computer science and a commitment to lifelong learning, I am confident in my ability to make meaningful contributions to any team or project.
 
 ---
 :toolbox: Toolbox 
@@ -24,8 +24,7 @@ With a strong foundation in computer science and a dedication to lifelong learni
 
 <!--
 **Hajer45/Hajer45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently studying software engineering  at  Higher institute of computer science Tunisia
-- 🌱 I’m currently learning  MERN stack
+- 🌱 I’m currently learning  Data science
 - 👯 I’m looking to collaborate on others projects and learn other technologies
 - ⚡ Fun fact: I love cooking :eyes:
 ---
