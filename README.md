@@ -30,7 +30,6 @@ I am always excited to learn new things and take on new challenges, constantly s
 ---
 ## <b> Connect with me:</b>
 <p align="left">
-<a href="https://www.linkedin.com/in/hajer-talbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hajer-talbi/" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/hagartalbi/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="hagartalbi" height="40" width="40" /></a>
 </p>
 
