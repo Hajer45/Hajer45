@@ -3,9 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU">
 ---
-I am a freelancer with a passion for competitive programming, web development, and data science. Currently, I am learning data science and am eager to continue improving my skills in these areas.
 
-I am always excited to learn new things and take on new challenges, constantly seeking opportunities to expand my knowledge and expertise. With a strong foundation in computer science and a commitment to lifelong learning, I am confident in my ability to make meaningful contributions to any team or project.
+MSc student in Data Science @ Eötvös Loránd University | Stipendium Hungaricum Scholar
+Passionate about data science, machine learning, and full-stack development
+Building data-driven applications with Python, React, and Firebase
+Continuously learning and creating at the intersection of AI, analytics, and software engineering
 
 ---
 :toolbox: Toolbox 
